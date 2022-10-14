@@ -31,6 +31,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting Bits", "Counting B
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Delete the Middle Node of a Linked List", "Delete the Middle Node of a Linked List\Delete the Middle Node of a Linked List.vcxproj", "{DA253EC1-E57C-47BA-9A85-76FB274F256E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Word Search", "Word Search\Word Search.vcxproj", "{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pascal's Triangle", "Pascal's Triangle\Pascal's Triangle.vcxproj", "{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +155,22 @@ Global
 		{DA253EC1-E57C-47BA-9A85-76FB274F256E}.Release|x64.Build.0 = Release|x64
 		{DA253EC1-E57C-47BA-9A85-76FB274F256E}.Release|x86.ActiveCfg = Release|Win32
 		{DA253EC1-E57C-47BA-9A85-76FB274F256E}.Release|x86.Build.0 = Release|Win32
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Debug|x64.ActiveCfg = Debug|x64
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Debug|x64.Build.0 = Debug|x64
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Debug|x86.Build.0 = Debug|Win32
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Release|x64.ActiveCfg = Release|x64
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Release|x64.Build.0 = Release|x64
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Release|x86.ActiveCfg = Release|Win32
+		{9B27FD24-EF59-4AD7-A8A0-3A1FA653F1C3}.Release|x86.Build.0 = Release|Win32
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Debug|x64.ActiveCfg = Debug|x64
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Debug|x64.Build.0 = Debug|x64
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Debug|x86.ActiveCfg = Debug|Win32
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Debug|x86.Build.0 = Debug|Win32
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Release|x64.ActiveCfg = Release|x64
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Release|x64.Build.0 = Release|x64
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Release|x86.ActiveCfg = Release|Win32
+		{7CDBBFB5-D086-44A4-A8A5-3125C607A40C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
